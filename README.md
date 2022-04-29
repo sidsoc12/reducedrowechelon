@@ -1,2 +1,2 @@
 # reducedrowechelon
-Reduced Row Echelon Form in Octave/Mat Lab
+Reduced Row Echelon Form and Bisection Algorithm in Octave/Mat Lab
